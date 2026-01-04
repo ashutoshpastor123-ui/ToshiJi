@@ -1,0 +1,1 @@
+print("Toshiji2.py")
